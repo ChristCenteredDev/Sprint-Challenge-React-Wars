@@ -13,7 +13,9 @@ const App = () => {
   return (
     <div className="App">
       <h1 className="Header">React Wars</h1>
-      <SWCards />
+      <div className="cards-container">
+        <SWCards />
+      </div>
     </div>
   );
 }
