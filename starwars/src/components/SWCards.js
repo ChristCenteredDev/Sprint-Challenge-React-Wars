@@ -6,7 +6,7 @@ import { SWCard } from './SWCard';
 const SWCardsDiv = styled.div`
     max-width: 1160px;
     display: flex;
-    justify-content: spaced-between;
+    justify-content: space-between;
     flex-wrap: wrap;
     margin: 0 auto;
 `;
